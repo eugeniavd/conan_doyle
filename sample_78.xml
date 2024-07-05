@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author></titleStmt>
+         <seriesStmt><title>DH Summerschool - Antwerp 2024</title></seriesStmt>
+         <sourceDesc>
+            <bibl><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author><respStmt><resp>Writer</resp><name>Arthur Conan Doyle</name></respStmt><idno type="Transkribus">2892283</idno><note>Henry W. and Albert A. Berg Collection of English and American Literature, The New York Public Library. (1881 - 1910). Return of Sherlock Holmes, The: No. 2. The adventure of the Norwood builder. Holograph Retrieved from https://digitalcollections.nypl.org/items/95a54c30-732a-0136-b6bf-4dfacf2ed6b1</note></bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="5377" lry="7115" xml:id="facs_78">
+         <graphic url="0078_078_37v.jpeg" width="5377px" height="7115px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=TDNRYAEEFQHHWOBMQPTWMHIQ&amp;fileType=view" width="5377px" height="7115px"/>
+         <zone points="238,408 5181,408 5181,6556 238,6556" rendition="TextRegion" xml:id="facs_78_tr_1">
+            <zone points="4745,315 4975,315 4975,708 4745,708" rendition="Line" xml:id="facs_78_tr_1_tl_1"/>
+            <zone points="206,859 4836,859 4836,1247 206,1247" rendition="Line" xml:id="facs_78_tr_1_tl_2"/>
+            <zone points="248,1126 2572,1126 2572,1380 248,1380" rendition="Line" xml:id="facs_78_tr_1_tl_3"/>
+            <zone points="1283,1204 4788,1204 4788,1586 1283,1586" rendition="Line" xml:id="facs_78_tr_1_tl_4"/>
+            <zone points="242,1507 4987,1507 4987,1894 242,1894" rendition="Line" xml:id="facs_78_tr_1_tl_5"/>
+            <zone points="309,1822 5175,1822 5175,2191 309,2191" rendition="Line" xml:id="facs_78_tr_1_tl_6"/>
+            <zone points="297,2124 5024,2124 5024,2482 297,2482" rendition="Line" xml:id="facs_78_tr_1_tl_7"/>
+            <zone points="333,2403 5048,2403 5048,2808 333,2808" rendition="Line" xml:id="facs_78_tr_1_tl_8"/>
+            <zone points="260,2705 4019,2705 4019,3081 260,3081" rendition="Line" xml:id="facs_78_tr_1_tl_9"/>
+            <zone points="3075,2942 3686,2942 3686,3147 3075,3147" rendition="Line" xml:id="facs_78_tr_1_tl_10"/>
+            <zone points="938,2990 4812,2990 4812,3359 938,3359" rendition="Line" xml:id="facs_78_tr_1_tl_11"/>
+            <zone points="291,3305 3159,3305 3159,3644 291,3644" rendition="Line" xml:id="facs_78_tr_1_tl_12"/>
+            <zone points="968,3547 3504,3547 3504,3970 968,3970" rendition="Line" xml:id="facs_78_tr_1_tl_13"/>
+            <zone points="944,3922 4794,3922 4794,4285 944,4285" rendition="Line" xml:id="facs_78_tr_1_tl_14"/>
+            <zone points="242,4188 4945,4188 4945,4558 242,4558" rendition="Line" xml:id="facs_78_tr_1_tl_15"/>
+            <zone points="938,4491 5096,4491 5096,4939 938,4939" rendition="Line" xml:id="facs_78_tr_1_tl_16"/>
+            <zone points="1102,4806 4727,4806 4727,5163 1102,5163" rendition="Line" xml:id="facs_78_tr_1_tl_17"/>
+            <zone points="345,5072 5157,5072 5157,5484 345,5484" rendition="Line" xml:id="facs_78_tr_1_tl_18"/>
+            <zone points="333,5363 1332,5363 1332,5605 333,5605" rendition="Line" xml:id="facs_78_tr_1_tl_19"/>
+            <zone points="1089,5399 5005,5399 5005,5768 1089,5768" rendition="Line" xml:id="facs_78_tr_1_tl_20"/>
+            <zone points="339,5720 3032,5720 3032,6065 339,6065" rendition="Line" xml:id="facs_78_tr_1_tl_21"/>
+            <zone points="1198,5980 4896,5980 4896,6349 1198,6349" rendition="Line" xml:id="facs_78_tr_1_tl_22"/>
+            <zone points="3365,6240 4079,6240 4079,6464 3365,6464" rendition="Line" xml:id="facs_78_tr_1_tl_23"/>
+            <zone points="3964,6337 5042,6337 5042,6676 3964,6676" rendition="Line" xml:id="facs_78_tr_1_tl_24"/>
+            <zone points="381,6276 3444,6276 3444,6700 381,6700" rendition="Line" xml:id="facs_78_tr_1_tl_25"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_78" n="78" xml:id="img_0078"/>
+            <ab facs="#facs_78_tr_1" type="">
+               <l facs="#facs_78_tr_1_tl_1" n="N001">36</l>
+               <l facs="#facs_78_tr_1_tl_2" n="N002">be <unclear>eschsunc</unclear>, Mr. Holmes" said Lestrade. The man's insolence was</l>
+               <l facs="#facs_78_tr_1_tl_3" n="N003">maddening but we could not resent it.</l>
+               <l facs="#facs_78_tr_1_tl_4" n="N004">What a providential thing that this young man</l>
+               <l facs="#facs_78_tr_1_tl_5" n="N005">should gress his right theub against the wall in taking his hat</l>
+               <l facs="#facs_78_tr_1_tl_6" n="N006">from the freg. Such a very natural action too, if you come to think</l>
+               <l facs="#facs_78_tr_1_tl_7" n="N007">of it." Holmes was outwardly calm but his whole body gave</l>
+               <l facs="#facs_78_tr_1_tl_8" n="N008">a wriggle of suppressed excitements as he apolie. "By the way.</l>
+               <l facs="#facs_78_tr_1_tl_9" n="N009">Lestrade, who made this remarhable discovery?</l>
+               <l facs="#facs_78_tr_1_tl_11" n="N011">"It was the househeeper, Mr <add>Lexington</add><del>Oellington</del>, who diew</l>
+               <l facs="#facs_78_tr_1_tl_12" n="N012">the night constables attention to it?</l>
+               <l facs="#facs_78_tr_1_tl_13" n="N013">"Where was the night constable?</l>
+               <l facs="#facs_78_tr_1_tl_14" n="N014">He remained on guard in the bedroom where the</l>
+               <l facs="#facs_78_tr_1_tl_15" n="N015">crine was committed, so as to see that nothing was tonched</l>
+               <l facs="#facs_78_tr_1_tl_16" n="N016">"But why didn't the police are this mach yesterday?</l>
+               <l facs="#facs_78_tr_1_tl_17" n="N017">Well, we had no particular reason to make a</l>
+               <l facs="#facs_78_tr_1_tl_18" n="N018">careful examination of the hall. Besides it's not in a very prommment</l>
+               <l facs="#facs_78_tr_1_tl_19" n="N019">place, as you see</l>
+               <l facs="#facs_78_tr_1_tl_20" n="N020">"No, no, of comse not. "I suppose there is no donth</l>
+               <l facs="#facs_78_tr_1_tl_21" n="N021">that the marh was there yesterday?</l>
+               <l facs="#facs_78_tr_1_tl_22" n="N022">Lestrade looked at Holmes as if he thouget he was</l>
+               <l facs="#facs_78_tr_1_tl_23" n="N023">was myself</l>
+               <l facs="#facs_78_tr_1_tl_24" n="N024">alf empused</l>
+               <l facs="#facs_78_tr_1_tl_25" n="N025">going out of his mind. I confess that I <del>was myself</del><add>was myself</add><unclear>impressed</unclear></l>
+            </ab></div>
+      </body>
+   </text>
+</TEI>
